@@ -109,7 +109,7 @@ public class MBotControlWrapper {
         }
         byte sideB;
         short speedS;
-        if (side == SIDE_LEFT) {
+        if (side == SIDE_RIGHT) {
             sideB = 0x0a;
             speedS = (short) speed;
         } else {
