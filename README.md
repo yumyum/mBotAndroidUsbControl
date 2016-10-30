@@ -10,7 +10,7 @@ Control your mBot from Android application using USB Host mode on Android 3.1 an
 5. UsbControlApplication will launch, and control your mBot.
 
 ## Author, License, and Copyright
-Author : yumyum
+Author : YUMURA Yu
 
 License : MIT License
 
